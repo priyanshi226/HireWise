@@ -1,0 +1,51 @@
+Job Title: LLM Engineer / NLP Engineer
+Location: [Remote / On-site – City, Country]
+Experience: 2–5 years
+Employment Type: Full-time
+
+Job Overview
+We are looking for a talented and motivated LLM Engineer to join our AI/ML team. The ideal candidate will have hands-on experience with Large Language Models (LLMs), NLP techniques, and deep learning frameworks. You will be responsible for building, fine-tuning, evaluating, and deploying LLM-based solutions that solve real-world problems across various domains.
+
+Key Responsibilities
+Design, develop, and fine-tune large-scale NLP models using transformer-based architectures (e.g., GPT, BERT, LLaMA).
+
+Develop robust pipelines for model training, evaluation, and deployment.
+
+Conduct experiments with prompt engineering, in-context learning, and few-shot learning.
+
+Evaluate and improve the performance of LLMs on custom datasets.
+
+Collaborate with product, design, and engineering teams to integrate LLMs into applications.
+
+Stay up-to-date with the latest research and developments in the field of NLP and LLMs.
+
+Requirements
+Bachelor’s or Master’s degree in Computer Science, Machine Learning, or related field.
+
+Strong knowledge of NLP, deep learning, and transformer architectures.
+
+Proficiency in Python and experience with ML libraries such as PyTorch or TensorFlow.
+
+Experience working with Hugging Face Transformers or OpenAI APIs.
+
+Familiarity with fine-tuning, prompt engineering, and zero/few-shot learning.
+
+Ability to write clean, efficient, and production-ready code.
+
+Preferred Skills
+Experience with vector databases (e.g., Pinecone, FAISS) and retrieval-augmented generation (RAG).
+
+Familiarity with MLOps tools and model deployment pipelines.
+
+Knowledge of data annotation tools and dataset creation.
+
+Contributions to open-source NLP/LLM projects.
+
+Why Join Us?
+Work on cutting-edge AI projects that impact millions.
+
+Flexible work hours and remote-friendly culture.
+
+Competitive salary and equity options.
+
+Opportunity to grow with a fast-paced and innovative team.
